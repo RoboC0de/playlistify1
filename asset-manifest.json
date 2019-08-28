@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/playlistify1/static/css/main.66b6fe2a.chunk.css",
+    "main.js": "/playlistify1/static/js/main.e68eeaf3.chunk.js",
+    "main.js.map": "/playlistify1/static/js/main.e68eeaf3.chunk.js.map",
+    "runtime~main.js": "/playlistify1/static/js/runtime~main.f0b76658.js",
+    "runtime~main.js.map": "/playlistify1/static/js/runtime~main.f0b76658.js.map",
+    "static/js/2.7e474140.chunk.js": "/playlistify1/static/js/2.7e474140.chunk.js",
+    "static/js/2.7e474140.chunk.js.map": "/playlistify1/static/js/2.7e474140.chunk.js.map",
+    "index.html": "/playlistify1/index.html",
+    "precache-manifest.52991bbbf35da50ed509ecf8bdd5d341.js": "/playlistify1/precache-manifest.52991bbbf35da50ed509ecf8bdd5d341.js",
+    "service-worker.js": "/playlistify1/service-worker.js",
+    "static/css/main.66b6fe2a.chunk.css.map": "/playlistify1/static/css/main.66b6fe2a.chunk.css.map",
+    "static/media/App.css": "/playlistify1/static/media/background_photo_desktop.37be7357.jpg"
+  }
+}
